@@ -6,7 +6,7 @@ Some general command line commands:
 - cd ==> change directory
 - ls ==> list of all the files in your directory
 
-The five main GitHub commandline commands:
+The main GitHub commandline commands:
 - git clone ==> this will create/clone your GitHub project (i.e. git clone https://github.com/whateverisyourname.git)
 - git status ==> this is comparing the local version to the official online repository
 - git add filename.extension (e.g. index.html) ==> this will add your file locally
