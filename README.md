@@ -13,5 +13,4 @@ The five main GitHub commandline commands:
 - git commit - m "your message" (e.g. "added index.html) ==> you is commiting/saving the change locally
 - git push ==> this will push the update to GitHub.com
 - git pull ==> this is retrieving the latest version from GitHub.com
-
 - git ==> will show all the commands you can use in the commandline program.
